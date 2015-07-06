@@ -3,6 +3,12 @@ target
 /x86_64-apple-darwin12.4.0
 /x86_64-unknown-linux-gnu
 test-outputs
+classes
+erjang-.jar
+erjang-0.2.jar
+otp-.jar
+otp_r16b01.tgz
+src/main/java/erjang/beam/interpreter/Interpreter.java
 
 # IDE specifics:
 /.idea
